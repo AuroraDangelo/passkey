@@ -1,1 +1,2 @@
 # passkey
+This project is about the generation of any random password for the user based on the preference of the user accordingly. Here HTMl,CSS and javascript has been used to design it .The project is user friendly and the user can get the password based on it's preferences which makes it user friendly .The project also tells whether the password that is generated is strong or weak which itself is a good trait.
